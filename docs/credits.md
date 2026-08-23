@@ -498,10 +498,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ivyturner">
-            <img src="https://avatars.githubusercontent.com/u/63261955?v=4" width="80;" alt="ivyturner"/>
+        <a href="https://github.com/ivyrs">
+            <img src="https://avatars.githubusercontent.com/u/63261955?v=4" width="80;" alt="ivyrs"/>
             <br />
-            <sub><b>Ivy Rose Turner</b></sub>
+            <sub><b>Ivy Forever</b></sub>
         </a>
     </td>
     <td align="center">
